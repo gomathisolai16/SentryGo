@@ -1,3 +1,12 @@
+## GO 
+Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.
+Go generates binary file for application when you do building with all the dependencies. This reduces the installing dependencies in runtime, and its easy to deploy the application.A single Go binary only supports the OS/architecture it was compiled for, but cross compilation is trivial.
+Using go routines you can easily call concurrent methods.
+
+
+## Sentry
+Open-source error tracking with full stacktraces & asynchronous context. Quickly find and fix production errors. Get notifications when errors occur or resurface. Better Error Tracking.
+
 ## Requirements
 
 For development, you will only need Go installed in your environement. You can go to https://golang.org/ this site and install go.

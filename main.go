@@ -12,7 +12,7 @@ import (
 func main() {
 	router := gin.Default()
 	Routes(router)
-	router.Run("0.0.0.0" + ":" + "7050")
+	router.Run("0.0.0.0:7050")
 }
 
 //Routes method used for routing
